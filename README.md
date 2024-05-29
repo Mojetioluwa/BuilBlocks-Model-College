@@ -9,7 +9,7 @@ This is the code for the BuilBlocks Model College website. It is an educational 
 
 ## Installation
 To run this website locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/BuilBlocks-Model-College.git`
+1. Clone the repository: `git clone https://github.com/Mojetioluwa/BuilBlocks-Model-College.git`
 2. Open the `index.html` file in your web browser.
 
 ## Usage
